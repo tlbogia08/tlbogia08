@@ -1,24 +1,30 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Jayesh%20Kumar&fontSize=55&fontAlignY=38&fontColor=ffffff&desc=Backend%20Developer%20in%20Progress%20⚡&descAlignY=60&descAlign=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Jayesh%20Kumar&fontSize=60&fontAlignY=38&fontColor=ffffff&desc=Backend%20Developer%20⚡%20Building%20Real%20Systems&descAlignY=60&descAlign=50&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=22&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=700&height=55&lines=🚀+Learning+Backend+Development;⚡+Node.js+%7C+MongoDB+%7C+APIs;📚+Preparing+for+Placements+%2B+CDS+%2B+NIMCET;🎯+Building+Projects+to+Master+Concepts" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=22&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=750&height=60&lines=🚀+Backend+Developer+in+Progress;⚡+Node.js+%7C+MongoDB+%7C+APIs;🔐+Learning+Auth+%26+System+Design;🎯+Building+Projects+That+Actually+Work" />
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=tlbogia08&label=Profile%20Views&color=00d9ff&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/tlbogia08?label=Followers&style=for-the-badge&color=00d9ff" />
 
 </div>
 
 ---
 
-## ⚡ About Me
+## ⚡ The Developer Behind the Code
 
 ```js
 const Jayesh = {
+  role: "Backend Developer",
   education: "BCA Student",
-  focus: ["Backend Development", "DSA", "System Design Basics"],
-  currentlyLearning: ["Node.js", "MongoDB", "JWT Auth", "APIs"],
+  focus: ["Node.js", "MongoDB", "APIs", "DSA"],
+  currentlyLearning: ["Authentication Systems", "System Design Basics"],
+  building: ["Backend Projects", "Real-world Apps"],
   goals: [
-    "Crack a developer job 💼",
-    "Clear CDS 🇮🇳",
-    "Master problem solving"
+    "Crack placements 💼",
+    "Become strong problem solver"
   ],
   mindset: "Consistency > Motivation",
 };
@@ -28,61 +34,57 @@ const Jayesh = {
 
 ## 🛠️ Tech Stack
 
-### 🚀 Backend
+<div align="center">
 
-* Node.js
-* Express.js
-* MongoDB
-* JWT Authentication
+### ⚛️ Core Skills
 
-### 💻 Languages
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,js,cpp,python&theme=dark" />
 
-* C++
-* Python
-* JavaScript
+### 🚀 Tools
 
-### ⚙️ Tools
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode&theme=dark" />
 
-* Git & GitHub
-* Postman
-* VS Code
+</div>
 
 ---
 
-## 🧠 Currently Working On
+## 🏆 Projects (Learning → Building)
 
-* 🔐 Authentication System (JWT + Cookies)
-* 📦 Backend Projects (Node.js + MongoDB)
-* 🧩 Strengthening DSA
-* ⚡ Understanding real-world backend systems
-
----
-
-## 📌 Projects
-
-### 🐍 Snake Game (C++)
-
-* Focus: Logic building
-* Concepts: Arrays, loops
+<table>
+<tr>
+<td width="50%">
 
 ### 🔐 Auth System (Node.js)
 
-* Login / Signup with JWT
+* JWT Authentication
+* Login / Signup Flow
 * Backend fundamentals
 
-### 🌐 Full Stack Practice Apps
+</td>
 
-* API integration
-* Frontend + backend connection
+<td width="50%">
+
+### 🐍 Snake Game (C++)
+
+* Logic building
+* Arrays & loops mastery
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Intelligence
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Jayesh-Kumar&show_icons=true&theme=tokyonight" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayesh-Kumar&layout=compact&theme=tokyonight" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=tlbogia08&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tlbogia08&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=tlbogia08&theme=tokyonight&hide_border=true" width="60%" />
 
 </div>
 
@@ -90,21 +92,15 @@ const Jayesh = {
 
 ## 🎯 2026 Goals
 
-* ✅ Strong Backend Developer
-* ✅ 4–5 solid projects
-* ✅ Crack placements
-* ✅ CDS + NIMCET preparation
-
----
-
-## 📫 Contact
-
-* Email: [iamjayeshkr@gmail.com](mailto:iamjayeshkr@gmail.com)
+* 🚀 Strong Backend Developer
+* 🧠 Master DSA
+* 💼 Crack placement
+* 🇮🇳 CDS Preparation
 
 ---
 
 <div align="center">
 
-🔥 *"Learning today. Building tomorrow."*
+🔥 *“I’m not here to show what I know — I’m here to prove what I can build.”*
 
 </div>
